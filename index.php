@@ -7,7 +7,7 @@
 	<title>Encriptador</title>
 </head>
 <body>
-	<img src="../Logo.png" id="alura" class="alura">
+	<img src="Logo.png" id="alura" class="alura">
 	<input type="text" name="encriptador" id="encriptador" onkeypress="return check(event)" onkeyup="minusculas(this);" placeholder="Ingrese el texto aqui">	
 	<div class="cuadrado"></div>
 	<textarea id="mensaje" name="mensaje" cols="50" rows="10"></textarea>
